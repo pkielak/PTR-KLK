@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Hi. I'm ptr-klk, check out my website.](https://github.com/PTR-KLK/PTR-KLK/raw/master/logo.png)](https://ptr-klk.github.io/)
 
 <!--
 **PTR-KLK/PTR-KLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
