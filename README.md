@@ -4,14 +4,20 @@
 
 I’m making websites and web applications to gain knowledge about front-end technologies :computer: and to express myself through this form of expression. :art:
 
-Also if You're looking :eyes: for front-end intern/junior front-end developer :baby: - I'm your man, I'm looking to gain first commercial experiences. 
+## :construction_worker: I’m currently working on:
+
+- Personal blog/portfolio/about page powered by Gatsby
+- Tidying up projects already published
+- Finding first job in development
+
+## :books: I’m currently learning ...
+- Gatsby framework
 
 ## :heart_eyes: Interesets:
 - running :runner:
 - listening to post-punk songs :headphones: 
 - tinkering and doing small in-house repairs :hammer: 
 - CAD modeling :triangular_ruler: 
-- watching science, cooking, DIY, and 3D printing channels on youtube (some day I will have my own 3D printer) :tv: 
 
 <!--
 **PTR-KLK/PTR-KLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
