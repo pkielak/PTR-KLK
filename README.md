@@ -6,12 +6,15 @@ I’m making websites and web applications to gain knowledge about front-end tec
 
 ## :construction_worker: I’m currently working on:
 
+- First blog article 
 - Personal blog/portfolio/about page powered by Gatsby
 - Tidying up projects already published
 - Finding first job in development
 
 ## :books: I’m currently learning ...
 - Gatsby framework
+- React Native
+- GraphQL
 
 ## :heart_eyes: Interesets:
 - running :runner:
