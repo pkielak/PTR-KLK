@@ -1,4 +1,4 @@
-[![Hi. I'm ptr-klk, check out my website.](https://github.com/PTR-KLK/PTR-KLK/raw/master/logo.png)](https://ptr-klk.github.io/)
+# Hi. I'm PTR-KLK, check out my [blog](https://ptr-klk.github.io/)
 
 ## :man: Me:
 
@@ -6,19 +6,20 @@ I’m making websites and web applications to gain knowledge about front-end tec
 
 ## :construction_worker: I’m currently working on:
 
-- First blog article 
-- Personal blog/portfolio/about page powered by Gatsby
+- Second blog article 
+- Blog template using Gatsby and Sass
 - Tidying up projects already published
 - Finding first job in development
 
 ## :books: I’m currently learning ...
 - Gatsby framework
+- React
+- Redux
 - React Native
 - GraphQL
 
 ## :heart_eyes: Interesets:
 - running :runner:
-- listening to post-punk songs :headphones: 
 - tinkering and doing small in-house repairs :hammer: 
 - CAD modeling :triangular_ruler: 
 
