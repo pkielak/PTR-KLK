@@ -1,4 +1,4 @@
-# Hi. I'm PTR-KLK
+# Hi. I'm Piotr
 
 <!--
 **PTR-KLK/PTR-KLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
